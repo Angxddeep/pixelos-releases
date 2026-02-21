@@ -1,20 +1,11 @@
-{
-    "response": []
+
+  {
+    "response": [
+      {
+        "datetime": 1740171600,
+        "id": "PUT_SHA256_OF_ZIP_HERE",
+        "romtype": "OFFICIAL",
+        "size": 1234567890,
+        "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/xaga/PixelOS_xaga-16.1-20260221-1300.zip/download",
+    ]
   }
-{
-    "maintainer": [
-        {
-            "display_name": "Angaddeep Singh",
-            "telegram": "Angxddeep",
-            "github": "Angxddeep"
-        }
-    ],
-    "model": "POCO X4 GT/REDMI K50i/Redmi Note 11 Pro+ 5G",
-    "vendor": "Xiaomi",
-    "codename": "xaga",
-    "codename_alt": "xaga/xagain",
-    "active": true,
-    "version": "sixteen",
-    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/PixelOS_alioth-16.1-20260118-1400.zip",
-    "archive": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/"
-}
