@@ -1,11 +1,13 @@
-
-  {
-    "response": [
-      {
-        "datetime": 1740171600,
-        "id": "PUT_SHA256_OF_ZIP_HERE",
-        "romtype": "OFFICIAL",
-        "size": 1234567890,
-        "url": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/xaga/PixelOS_xaga-16.1-20260221-1300.zip/download",
-    ]
-  }
+{
+  "response": [
+    {
+      "datetime": "1771768330",
+      "filename": "custom_xaga-ota.zip",
+      "id": "7cce62388197ea88d8d1cd0a75fe4e1152ba0cbf6ce64050e9fd5effbed22820",
+      "romtype": "OFFICIAL",
+      "size": 2531853760,
+      "url": "https://storage.googleapis.com/pixelos-downloads-angxddeep/sixteen/xaga/20260222-1352/ota/custom_xaga-ota.zip",
+      "version": 16
+    }
+  ]
+}
