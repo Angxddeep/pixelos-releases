@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1771768330",
-      "filename": "custom_xaga-ota.zip",
-      "id": "7cce62388197ea88d8d1cd0a75fe4e1152ba0cbf6ce64050e9fd5effbed22820",
+      "datetime": "1771877150",
+      "filename": "PIXELOS_Xaga_20260223-2005.zip",
+      "id": "7819af601fd5c755718de51113a3602e14a69961cb7f688487604b2d35eda700",
       "romtype": "OFFICIAL",
-      "size": 2531853760,
-      "url": "https://storage.googleapis.com/pixelos-downloads-angxddeep/sixteen/xaga/20260222-1352/ota/custom_xaga-ota.zip",
-      "version": 16
+      "size": 2518659483,
+      "url": "https://sourceforge.net/projects/xagaproject/files/Pixelos-xaga/FEB/PIXELOS_Xaga_20260223-2005.zip/download",
+      "version": 16.2
     }
   ]
 }
