@@ -1,0 +1,7 @@
+rsync -avP --partial --append-verify \
+-e "ssh -c aes128-gcm@openssh.com -o Compression=no" \
+boot.img vendor_boot.img vbmeta.img dtbo.img PixelOS_xaga-16.2-20260225-0708.zip \
+angxddeep@frs.sourceforge.net:/home/frs/project/xagaproject/Pixelos-xaga/Feb-2026/
+
+scp boot.img vendor_boot.img vbmeta.img dtbo.img PIXELOS_Xaga_20260225-1118.zip \ angxddeep@frs.sourceforge.net:/home/frs/project/xagaproject/Pixelos-xaga/Feb-2026/
+
