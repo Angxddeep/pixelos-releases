@@ -13,5 +13,5 @@
 
  🔄 Changed
 
-\ 🧠 Optimized memory management for 6GB RAM models to improve multitasking.
-\ 🐞 Miscellaneous bug fixes and improvements.
+- 🧠 Optimized memory management for 6GB RAM models to improve multitasking.
+- 🐞 Miscellaneous bug fixes and improvements.
