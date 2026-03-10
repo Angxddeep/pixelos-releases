@@ -1,4 +1,4 @@
-\✨ Added
+✨ Added
 
 - 🔒 Updated to the March security patch.
 - 🌡️ Improved thermal management by adjusting throttling thresholds to keep the device cooler.
