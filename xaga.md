@@ -1,5 +1,9 @@
 ✨ Added
 
+>>> (BUG FIX RELEASE FROM UPTREAM PIXELOS) <<<
+
+
+
 - 🔒 Updated to the March security patch.
 - 🌡️ Improved thermal management by adjusting throttling thresholds to keep the device cooler.
 - 📸 Improved MIUI camera lighting and photo quality.
