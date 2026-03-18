@@ -2,7 +2,7 @@
 
 > ## BUG FIX RELEASE PIXELOS 
 
-s 
+
 ✨ Added
 
 - 🛠️ Added MediaTek Engineering Mode for advanced users.
