@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1773307228",
-      "filename": "PixelOS_xaga-16.2-20260312-0925.zip",
-      "id": "082BCD4035E4346CBE421B884F79A7DC46E3048F573D07F0318EA1774EAE5B7D",
+      "datetime": "1773821952",
+      "filename": "PixelOS_xaga-16.2-20260318-0819.zip",
+      "id": "1FE2B8CC53AD3035D183857120C585D706AB56287ABCD1570253F7D6696FFF3D",
       "romtype": "OFFICIAL",
-      "size": 2580943825,
-      "url": "https://sourceforge.net/projects/xagaproject/files/Pixelos-xaga/Mar-BUGFIX-2026/PixelOS_xaga-16.2-20260312-0925.zip/download",
+      "size": 2573702928,
+      "url": "https://sourceforge.net/projects/xagaproject/files/Pixelos-xaga/Mar-2026-18/PixelOS_xaga-16.2-20260318-0819.zip/download",
       "version": 16.2
     }
   ]
