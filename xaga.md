@@ -5,14 +5,8 @@
 
 ✨ Added
 
-- 🛠️ Added MediaTek Engineering Mode for advanced users.
-- 📶 Enabled `WIFI_FEATURE_SUPPLICANT_11AX` Support.
+- 🪪 Now each device gets its region fingerprint based on the region GLOBAL/INDIAN/CHINA instead of a common POCO fingerprint
 
 🛠️ Fixed
 
-- 📡 Fixed the 5GHz hotspot issue from last build where it didn't used to work before.
-- 🎧 Fixed the Bluetooth A2DP issue from the last build.
-
-🔄 Changed
-
-- 🔄 Merged some upstream bug fixes from PixelOS source.
+- 📡 Phonepe now working
