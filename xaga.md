@@ -1,9 +1,15 @@
-# 22-Mar-2026
+# 10-April-2026
 
 ✨ Added
 
-- 🪪 Now each device gets its region fingerprint based on the region GLOBAL/INDIAN/CHINA instead of a common POCO fingerprint
+- 🔦 Added torch brightness control.
+- 🎧 Added Dolby Atmos.
+- 📳 Improved haptics and enabled them in more places.
+- 📷 Added Aperture Camera alongside Miui cam.
+- Upstream Pixelos [Changelog](https://blog.pixelos.net/blog/2026-04-08-April-Update)
 
 🛠️ Fixed
 
-- 📡 Phonepe now working
+- 🎙️ Fixed "Ok Google."
+- 🎥 Fixed Instagram video lag.
+- 🪪 Switched devices to a common Global POCO X4 GT fingerprint, as the Indian fingerprint was automatically installing bloatware with no reliable way to prevent it.
