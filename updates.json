@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1775703834",
-      "filename": "PixelOS_xaga-16.2-20260409-0304.zip",
-      "id": "F0F6A4EFED8B65360BA4D0DA94765C85A1DF5FB9BFBDD1FDF544EB6FCD2CF1C7",
+      "datetime": "1775971000",
+      "filename": "PixelOS_xaga-16.2-20260412-0521.zip",
+      "id": "C20E0BEC442686B12DE3373906E275EF221366B17498B922EBA7C23C808115EE",
       "romtype": "OFFICIAL",
-      "size": 2581830674,
-      "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/PixelOS_xaga-16.2-20260409-0304.zip",
+      "size": 2471701018,
+      "url": "https://pixelos-xaga-worker.angxddeep.workers.dev/PixelOS_xaga-16.2-20260412-0521.zip",
       "version": 16.2
     }
   ]
